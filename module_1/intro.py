@@ -12,7 +12,12 @@
         - a variable name must start with an alphabet or an underscore
         - a variable name can only contain alphabets, underscore and numbers(no special characters)
         _- adhere to good naming conventions(sensible variable names, seperate multiple words with an underscore)
+        - variables are case sensitive
 
     KEYWORDS
         if, elif, else, for, while, with, open, import, input, class, print, break, continue, return
 """
+
+# the two variables below are two differen things
+name = "Gabriel"
+Name = "Abdul"
