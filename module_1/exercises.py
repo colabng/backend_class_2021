@@ -43,3 +43,4 @@ hobb&y = "swiming"
 
 # valid because its starts with an alphabet but its a bit difficult to read
 ProgrammingLanguage = "Python"
+print(ProgrammingLanguage)
