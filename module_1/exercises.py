@@ -25,13 +25,22 @@ print(3+2**(3*3)*4)
 """"
     Identify the valids and the invalids
 """
-
+# valid because it has a good naming convention
 first_name = "Abdul"
+
+# invalid because its starts with a number and a variable must start with an alphabet or an underscore
 8last_name = "Gabriel"
 
+
+# valid because its has 
 age_1 = 2
 age_2 = 5
 
+
+# invalid because a variable name only needs an alphabet, underscore or a number(at the end)
+# (no special character)
 hobb&y = "swiming"
 
+# valid because its starts with an alphabet but its a bit difficult to read
 ProgrammingLanguage = "Python"
+print(ProgrammingLanguage)
