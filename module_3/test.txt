@@ -1,1 +1,1 @@
-hi
+Files are named locations on disk to store related information. They are used to permanently store data in a non-volatile memory (e.g. hard disk).
